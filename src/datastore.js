@@ -1,1 +1,3 @@
-console.log('Hallo kita akan membuat REST api');
+const notes = [];
+
+module.exports = notes;
