@@ -4,7 +4,7 @@ const {
 
 const routes = [
   {
-    method: 'GET',
+    method: 'POST',
     path: '/notes',
     handler: addHandler,
   },
